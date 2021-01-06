@@ -30,5 +30,5 @@ x + y = 4
 
 
 - The equation cannot be resolved, it has no solution + error in the code because it has no solution
-
+ 
 
